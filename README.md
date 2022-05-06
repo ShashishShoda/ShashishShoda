@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Analytics.
 - 💞️ I’m looking to collaborate on projects related to Analytics, Data-Science.
 - 📫 How to reach me --> m2021anlt032@stud.tiss.edu (mail_id)
+- My Tableau Profile --> https://public.tableau.com/app/profile/shashish.shoda 
 
 <!---
 ShashishShoda/ShashishShoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
