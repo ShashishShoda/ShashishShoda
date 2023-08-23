@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShashishShoda
+- 👋 Hi, I’m @ShashishShoda (aka kashur_007)
 - 👀 I’m interested in creating insights and value from data.
 - 🌱 I’m currently learning Analytics.
 - 💞️ I’m looking to collaborate on projects related to Analytics, Data-Science.
